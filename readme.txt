@@ -1,0 +1,1 @@
+This extracts the most important sentences from an article based on number of keywords.Compile it. Give it the number of sentences you want, paste your text you want to summarize, and enter your EOF character(ctrl+d on windows)
